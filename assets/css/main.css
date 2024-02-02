@@ -1,0 +1,315 @@
+@charset "UTF-8";
+@font-face {
+  font-family: Roboto;
+  src: url("../fontlar/Roboto-Regular.ttf");
+}
+.container {
+  max-width: 1600px !important;
+  height: 1200px !important;
+  background-color: #FAFAFB !important;
+}
+.container .box {
+  width: 296px;
+  height: 750px;
+  position: absolute !important;
+}
+.container .box .bi bi-bell {
+  margin-left: 100px !important;
+}
+.container .box .war {
+  margin-top: 80px !important;
+}
+.container .box .text {
+  margin-top: 83px !important;
+  margin-left: 68px !important;
+  position: absolute;
+  font-family: Roboto !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  line-height: 24px !important;
+  letter-spacing: 0.25px !important;
+  text-align: right !important;
+  color: #222B45 !important;
+}
+.container .box .text1 {
+  margin-top: 100px !important;
+  margin-left: 68px !important;
+  position: absolute;
+  font-family: Roboto !important;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  line-height: 24px !important;
+  letter-spacing: 0.25px !important;
+  text-align: right !important;
+  color: #8F9BB3 !important;
+}
+.container .box .box1 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 175px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box1:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box2 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 239px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box2:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box3 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 303px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box3:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box3 .kino4 {
+  margin-left: 256px !important;
+}
+.container .box .box4 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 367px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box4:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box5 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 431px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box5:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box5 .kino5 {
+  margin-left: 256px !important;
+}
+.container .box .box6 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 495px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box6:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box6 .kino6 {
+  margin-left: 256px !important;
+}
+.container .box .box7 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 559px;
+  border: 1px solid gainsboro !important;
+}
+.container .box .box7:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box7 .kino7 {
+  margin-left: 256px !important;
+}
+.container .box .box8 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 623px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box8:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .box .box8 .kino9 {
+  margin-left: 256px !important;
+}
+.container .box .box9 {
+  width: 296px !important;
+  height: 64px !important;
+  margin-top: 687px;
+  border: 1px solid gainsboro !important;
+  transition: 0.5s;
+}
+.container .box .box9:hover {
+  background-color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+  color: aqua;
+}
+.container .gigant {
+  width: 1232px;
+  height: 751px;
+  margin-left: 343px;
+  border-radius: 4px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  color: #8F9BB3;
+}
+.container .gigant .figma {
+  transition: 0.5s;
+}
+.container .gigant .figma:hover {
+  color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.container .gigant .figma1 {
+  margin-top: -45px;
+  margin-left: 186px;
+}
+.container .gigant .figma1:hover {
+  color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.container .gigant .figma2 {
+  margin-top: -45px;
+  margin-left: 403px;
+}
+.container .gigant .figma2:hover {
+  color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.container .gigant .figma3 {
+  margin-top: -45px;
+  margin-left: 587px;
+}
+.container .gigant .figma3:hover {
+  color: #3366FF;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.container .gigant .btn2 {
+  width: 136px;
+  height: 40px;
+  margin-left: 1073px;
+  margin-top: -50px;
+  position: absolute;
+  border-radius: 4px;
+  color: white;
+  background-color: #3366FF;
+  border: 1px solid #3366FF;
+  transition: 0.5s;
+}
+.container .gigant .btn2:hover {
+  color: #3366FF;
+  background-color: white;
+  border: 1px solid #3366FF;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.container .gigant .figma5 {
+  color: #3366FF;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.400000006px;
+  text-align: left;
+  margin-top: -17px;
+}
+.container .gigant .gmail {
+  width: 130px;
+  height: 130px;
+  background-image: url("../img/🎨 Stroke & Background.png");
+  background-size: cover;
+}
+.container .gigant .gmail .goblin {
+  margin-top: 90px;
+  margin-left: 20px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.400000006px;
+}
+.container .gigant .input_red {
+  width: 1185px;
+  height: 48px;
+  margin-top: -20px;
+  border-radius: 4px;
+  border: 1px solid #E4E9F2;
+}
+.container .gigant .mail {
+  width: 580px;
+  height: 48px;
+  border: 1px solid #E4E9F2;
+  border-radius: 4px;
+}
+.container .gigant .figam8 {
+  margin-top: -90px;
+  margin-left: 630px;
+}
+.container .gigant .mail1 {
+  width: 580px;
+  height: 48px;
+  margin-left: 630px;
+  border: 1px solid #E4E9F2;
+  border-radius: 4px;
+}
+.container .gigant .btn {
+  width: 99px;
+  height: 40px;
+  margin-top: 89px;
+  margin-left: 498px;
+}
+.container .gigant .btn1 {
+  width: 99px !important;
+  height: 40px !important;
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 10px !important;
+  background-color: #C9E7E5 !important;
+  border-radius: 4px;
+  border: 1px solid #C9E7E5;
+  color: white;
+}
+.container .gigant .btn1:active {
+  border-radius: 4px;
+  background-color: white !important;
+  border: 1px solid #C9E7E5;
+  color: #C9E7E5;
+  cursor: pointer;
+  transition: 0.5s;
+}/*# sourceMappingURL=main.css.map */
